@@ -1,21 +1,5 @@
-## StackOver Flow - Clone
+## Kilimo QA Portal
 
-<a href="https://github.com/Yawan-1/StackOverFlow--Clone/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Yawan-1/StackOverFlow--Clone"></a>
-<a href="https://github.com/Yawan-1/StackOverFlow--Clone/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Yawan-1/StackOverFlow--Clone"></a>
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Yawan-1/StackOverFlow--Clone">
-![python3.x](https://img.shields.io/badge/python-3.x-brightgreen.svg)
-
-A Clone of StackOver Flow, I implemented almost every functionalities, 
-I just wanted to notice and show developers how StackOver-Flow works
-, do tasks <b style="color:lightgreen">under the hood</b>, how tasks and queries are executing behind the scenes.
-
-## Images
-
-<img src="/images/animation.gif">
-
-## Demo
-
-Here is a working live demo : <a href="https://stonkoverflow.herokuapp.com/">Demo</a>
 
 ## Technology Stack
 
@@ -51,9 +35,6 @@ Here is a working live demo : <a href="https://stonkoverflow.herokuapp.com/">Dem
   * Review Suggested Edits
 
 
-* And much more. You can find list of all functionalities <a href="https://github.com/Yawan-1/StackOverFlow--Clone/blob/759157fc68f59398d9352ddd705eee396336bb81/Functionalities.md">Here</a>
-
-
 ## Setup Commands
 
 Clone this repository
@@ -61,8 +42,8 @@ Clone this repository
 1. Clone this project using
 ````
 $ git clone URL
-````
 
+````
 For Postgresql usage*, you will need to download and install it.
 
 1. Download Postgresql from [this Link](https://www.postgresql.org/download/)
